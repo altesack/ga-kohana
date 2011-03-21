@@ -1,5 +1,5 @@
-This module demonstrates work with Google Analytics.
-It contains third pard source from http://www.swis.nl/ga/
+This Kohana3.0 module demonstrates work with Google Analytics.
+It contains third part source from http://www.swis.nl/ga/
 
 Module contents of config file, controller and view.
 It's very simple module.
